@@ -1,0 +1,6 @@
+Splash screen:
+
+-Para dar um efeito splash o mesmo usa um pai chamado splash container com z-index 1
+-um filho chamado splash com z-index 2
+
+-> Primeiro ele fica o pai com uma altura de 88%, depois coloca o filho como absoluto e z-index 2
